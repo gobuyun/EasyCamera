@@ -2,6 +2,10 @@
 ffmpeg+Camera=EasyCamera
 使用ffmpeg采集摄像头
 
+运行结果：
+![image](https://user-images.githubusercontent.com/29557326/153695397-5db8c192-9e74-4c34-81be-4d895fbe7351.png)
+
+
 如何跑起来：
 - 0、链接ffmpeg相关头文件、SDL头文件。
 以及链接以下库文件：
