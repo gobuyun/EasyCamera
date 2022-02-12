@@ -1,0 +1,2 @@
+# EasyCamera
+ffmpeg+Camera=EasyCamera
